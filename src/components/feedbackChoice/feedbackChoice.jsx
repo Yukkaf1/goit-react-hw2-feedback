@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import { Button, Section } from './feedbackChoice.styled';
+import { Button } from './feedbackChoice.styled';
 
 export const FeedbackChoice = ({ options, onLeaveFeedback }) =>
   options.map(name => (
