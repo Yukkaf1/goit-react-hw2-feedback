@@ -10,8 +10,8 @@ export class App extends Component {
   render() {
     return (
       <>
-        <Section headTitle="Phonebook"></Section>
-        <Section title="Contacts"></Section>
+        <Section title="Please leave feedback"></Section>
+        <Section title="Statistics"></Section>
       </>
     );
   }
